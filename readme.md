@@ -6,16 +6,16 @@
 ## Live Links
 | | URL |
 |---|---|
-| Frontend | https://sermonia-finalproject-576923.netlify.app |
-| Backend API Docs | https://sermonia-backend.onrender.com/api-docs |
+| Frontend |https://dainty-chebakia-18a4eb.netlify.app  |
+| Backend API Docs | https://licardo-lab-7.onrender.com/api-docs |
 
 ---
 
 ## GitHub Repositories
 | | URL |
 |---|---|
-| Frontend | https://github.com/Carlosermonia/Sermonia_Lab7Activity |
-| Backend | https://github.com/Carlosermonia/Sermonia_Backend |
+| Frontend | https://github.com/GianninoJaredLicardo/Licardo-Front-End |
+| Backend | https://github.com/GianninoJaredLicardo/Licardo-Lab-7 |
 
 ---
 
@@ -49,4 +49,4 @@ npm run start:dev
 
 ---
 
-*UC CCS IPT Final Project | May 2026 | John Carlo Sermonia*
+*UC CCS IPT Final Project | May 2026 | Giannino Jared Licardo*
