@@ -1,11 +1,11 @@
 openapi: 3.0.0
 info:
-  title: Sermonia Final Project API
-  description: Node.js + MySQL - Auth API by Carlo Sermonia - UC CCS Final Examination
+  title: Licardo Final Project API
+  description: Node.js + MySQL - Auth API by Giannino Jared Licardo - UC CCS Final Examination
   version: 1.0.0
 
 servers:
-  - url: https://sermonia-backend.onrender.com
+  - url: https://licardo-lab-7.onrender.com
     description: Production server
 paths:
   /accounts/register:
